@@ -1,0 +1,7 @@
+.git
+.gitignore
+node_modules
+build
+npm-debug.log*
+Jenkinsfile*
+README.md
